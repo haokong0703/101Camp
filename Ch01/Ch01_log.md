@@ -24,6 +24,13 @@
                ticks = time.time()
                print ("当前时间戳为:", ticks)’
             ···
-     
+     * 下一步
+        根据输入是，还是。，判断是开始时间，还是结束时间
+        https://gitlab.com/101camp/py/blob/master/ch01.md
+        
+        
 * 问题list
   * 开发/测试/运行环境？多个环境？
+
+* log 
+    * 190403 10:00pm 第一次探索
