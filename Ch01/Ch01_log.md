@@ -16,7 +16,8 @@
           * 电脑环境中多个版本并存，使用`alias python=python3.7`
     * 记录当前时间
         *  ···
-              #!/usr/bin/python
+               
+               #!/usr/bin/python
                # -*- coding: UTF-8 -*-
  
                import time;  # 引入time模块
