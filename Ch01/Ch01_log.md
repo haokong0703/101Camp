@@ -15,7 +15,7 @@
           * 官网下载，进行安装
           * 电脑环境中多个版本并存，使用`alias python=python3.7`
     * 记录当前时间
-        * ‘#!/usr/bin/python
+        *  ···#!/usr/bin/python
 # -*- coding: UTF-8 -*-
  
 import time;  # 引入time模块
@@ -24,7 +24,7 @@ print ("计时(,|.) -->:")
 
 
 ticks = time.time()
-print ("当前时间戳为:", ticks)’
+print ("当前时间戳为:", ticks)’···
      
 * 问题list
   * 开发/测试/运行环境？多个环境？
